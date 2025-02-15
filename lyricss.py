@@ -3,7 +3,7 @@ import time
 def print_lyrics():
     lyrics = [
         ("", 1.0, 0.1),
-        ("...", 10, 0.1),
+        ("...", 17, 0.1),
         ("", 1.0, 0.1),
         ("Your morning eyes, I could stare like watching stars", 0.1, 0.13),
         ("I could walk you by, and I'll tell without a thought", 0.1, 0.11),
